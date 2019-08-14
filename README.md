@@ -1,5 +1,15 @@
 # create-react-app-extension-template
 
+### Instructions
+
+```
+yarn install
+yarn build     # Builds extension
+```
+
+then load the extension from the `./build` directory
+
+
 ### Links
 
 [How to use React.js to create a cross-browser extension in 5 minutes](https://levelup.gitconnected.com/how-to-use-react-js-to-create-chrome-extension-in-5-minutes-2ddb11899815)
